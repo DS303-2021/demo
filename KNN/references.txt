@@ -1,0 +1,4 @@
+1. https://archive.ics.uci.edu/ml/datasets/iris
+2. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+3. https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling
+4. https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
