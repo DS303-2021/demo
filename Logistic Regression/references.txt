@@ -1,0 +1,5 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
+https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
