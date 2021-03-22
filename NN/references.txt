@@ -1,0 +1,4 @@
+https://www.tensorflow.org/tutorials/quickstart/beginner
+https://www.tensorflow.org/tutorials/quickstart/advanced
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
+https://www.kaggle.com/arunkumarramanan/tensorflow-tutorial-and-housing-price-prediction
